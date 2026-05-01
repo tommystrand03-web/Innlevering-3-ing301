@@ -96,3 +96,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+#endrer denne linjen til å få github til å oppdatere seg på webbasert? 
